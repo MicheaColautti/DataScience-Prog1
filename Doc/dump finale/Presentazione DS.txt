@@ -1,0 +1,7 @@
+0- Intro 				     | Giada
+1- veloce grafico gender e age distribution  | Michea 
+2- Grafico maschi/femmine e depressione età  | Michea
+3- Dieta 			 	     | Giada
+4- Pensieri suicidi                          | Davide
+5- Financial stress                          | Davide
+6- Box plot con ore di studio                | Davide
